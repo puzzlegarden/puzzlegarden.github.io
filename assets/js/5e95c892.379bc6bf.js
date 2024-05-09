@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpuzzle_garden_website=self.webpackChunkpuzzle_garden_website||[]).push([[9647],{2563:(e,s,r)=>{r.r(s),r.d(s,{default:()=>d});r(1467);var u=r(7167),a=r(9687),n=r(6134),t=r(4494),c=r(5193),l=r(123);function d(e){return(0,l.jsx)(a.e3,{className:(0,u.A)(n.G.wrapper.docsPages),children:(0,l.jsx)(c.A,{children:(0,t.v)(e.route.routes)})})}}}]);
